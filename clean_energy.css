@@ -8,7 +8,7 @@ body {
   font-family: "Poppins", sans-serif;
   overflow-x: hidden;
 
-  background: url("images/hamlinjandrew-drone-5008211.jpg") center/cover
+  background: url("images/hamlinjandrew-drone-5008211\ \(1\).jpg") center/cover
     no-repeat fixed;
 }
 
@@ -164,7 +164,7 @@ body {
   padding: 80px 20px;
   background:
     linear-gradient(135deg, rgba(0, 25, 15, 0.92), rgba(0, 10, 8, 0.88)),
-    url("images/hamlinjandrew-drone-5008211.jpg");
+    url("images/hamlinjandrew-drone-5008211\ \(1\).jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
